@@ -1,0 +1,5 @@
+# environment variables
+.env
+
+# vendor
+node_modules

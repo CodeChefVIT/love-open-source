@@ -1,0 +1,27 @@
+{
+  "name": "love-open-source",
+  "version": "0.0.1",
+  "description": "Open source project and repository monitor for organizations",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha",
+		"start": "node app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/L04DB4L4NC3R/love-open-source.git"
+  },
+  "keywords": [
+    "open-source",
+    "github",
+    "git",
+    "organizations",
+    "monitor"
+  ],
+  "author": "CodeChefVIT",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/L04DB4L4NC3R/love-open-source/issues"
+  },
+  "homepage": "https://github.com/L04DB4L4NC3R/love-open-source#readme"
+}
