@@ -26,3 +26,6 @@ cd love-open-source
 npm i
 npm start
 ```
+
+## No longer in development
+See [Here](https://github.com/L04DB4L4NC3R/gdginfo-backend)
